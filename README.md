@@ -15,6 +15,10 @@ Transform simple or nested JSON objects during run time into React Components
 
 `npm install jsonreactor --save-dev `
 
+## Demo
+
+[![Edit jsonreactor](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/1qxj58vnpl)
+
 ## Usage
 
 Inside of your React component, after you recieve your JSON payload you can transform them into React components in the following manner:
